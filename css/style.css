@@ -1,0 +1,25 @@
+table {
+border-collapse: collapse;
+margin-left: 40px;
+}
+
+td, th {
+border-style: solid;
+padding: 8px;
+border-width: 0px;
+border-bottom: 1px solid;
+text-align: center;
+}
+
+* {
+background-color: LightGray;
+}
+
+tr > :first-child {
+background-color: Lavender;
+}
+
+h1 {
+color: LimeGreen;
+text-align:center;
+}
